@@ -42,3 +42,11 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+### Installing the Dataset
+
+Read the [README](./dataset-images/README.md) in the dataset-images folder to get the dataset.
+
+### Running the Notebooks
+
+Run the notebooks in the [CRISP-DM-Notebooks](CRISP-DM-Notebooks) folder in order (from step 1 to step 5).

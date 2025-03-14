@@ -6,7 +6,7 @@ This folder is empty because of the large number of images.
 
 To populate the dataset, install the images from [Kaggle](https://www.kaggle.com/datasets/scolianni/mnistasjpg).
 
-The original dataset has a folder for each image, from 0 to 9. The images are in JPG format. The folders are renamed to the labels `zero` to `nine`.
+The original dataset has a folder for each image, from 0 to 9. The images are in JPG format. The folders need to be renamed to the labels `zero` to `nine`.
 
 Move each category of images to their respective folder here.
 
